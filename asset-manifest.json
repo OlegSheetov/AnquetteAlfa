@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d2a4caeb.css",
+    "main.js": "/static/js/main.692aacfd.js",
+    "static/media/beautiful-shot-top-mountain.jpg": "/static/media/beautiful-shot-top-mountain.b253c7ef9cd8a9a62d43.jpg",
+    "index.html": "/index.html",
+    "main.d2a4caeb.css.map": "/static/css/main.d2a4caeb.css.map",
+    "main.692aacfd.js.map": "/static/js/main.692aacfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2a4caeb.css",
+    "static/js/main.692aacfd.js"
+  ]
+}
